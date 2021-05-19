@@ -1,16 +1,14 @@
 body {
   margin: 0;
-  border: dashed 1px red;
 }
 .wrapper {
   margin: auto;
   width: 80%;
-  border: dashed 1px red;
 }
 .header {
   display: flex;
   justify-content: space-between;
-  border: dashed 1px red;
+  margin-bottom: 206px;
 }
 .logo {
   position: relative;
@@ -86,18 +84,32 @@ body {
 .menu__item:last-child {
   margin-right:0;
 }
-.main-section {
+.main {
+  padding:0 63% 100px 0;
+  background: top right no-repeat url('img/mainimg.svg');
+
 }
-.main-content {
+.main__title {
+  margin: 0 0 40px 0;
+  font:bold 66px/87px pt_serifbold,arial,helvetica,sans-serif;
 }
-.main-content__title {
+.main__title-text_highlight {
+  background: #ECF3FF;  
 }
-.main-content__subtitle {
-  font-family: Roboto;
+.main__subtitle {
+  margin: 0 0 41px 0;
+  font: 22px/26px Roboto,arial,helvetica,sans-serif;
 }
-.main-content__button {
+.main__button {
+  display: inline-block;
+  font: 18px/21px Roboto,arial,helvetica,sans-serif;
+  color: #fff;
+  background: #0056EC;
+  padding: 18px 21px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: opacity .5s;
 }
-.image-content {
-}
-.image-content__image {
+.main__button:hover {
+  opacity: .5;
 }
