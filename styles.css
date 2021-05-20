@@ -87,6 +87,7 @@ body {
 .main {
   padding:76px 63% 200px 0;
   background: top right no-repeat url('img/mainimg.svg');
+  margin-bottom: 70px;
 
 }
 .main__title {
@@ -114,7 +115,6 @@ body {
   opacity: .5;
 }
 .tochki {
-  margin-bottom: 40px;
   display: flex;
   justify-content: center;
 }
