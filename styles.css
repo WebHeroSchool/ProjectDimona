@@ -8,7 +8,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 206px;
+  margin-bottom: 184px;
 }
 .logo {
   position: relative;
@@ -90,19 +90,19 @@ body {
 
 }
 .main__title {
-  margin: 0 0 40px 0;
-  font:bold 66px/87px pt_serifbold,arial,helvetica,sans-serif;
+  margin: 0 0 36px 0;
+  font:bold 62px/82px pt_serifbold,arial,helvetica,sans-serif;
 }
 .main__title-text_highlight {
   background: #ECF3FF;  
 }
 .main__subtitle {
   margin: 0 0 41px 0;
-  font: 22px/26px Roboto,arial,helvetica,sans-serif;
+  font: 21px/24px Roboto,arial,helvetica,sans-serif;
 }
 .main__button {
   display: inline-block;
-  font: 18px/21px Roboto,arial,helvetica,sans-serif;
+  font: 17px/20px Roboto,arial,helvetica,sans-serif;
   color: #fff;
   background: #0056EC;
   padding: 18px 21px;
