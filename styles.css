@@ -114,5 +114,15 @@ body {
   opacity: .5;
 }
 .tochki {
-
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+.tochka-one, .tochka-two, .tochka-three {
+  margin-right: 4px;
+  width: 8px;
+  height: 8px;
+  background: #C8DBFB;
+  border-radius: 50%;
+  opacity: .7;
 }
