@@ -34,6 +34,12 @@ body {
 .logo__circle_color_dark-blue {
   background: #0056EC;
 }
+.logo__mobile{
+  display: none;
+  position: relative;
+  padding: 40px 0;
+  padding-left: 44px;
+}
 .menu {
   display: flex;
   align-items: center;
@@ -125,4 +131,7 @@ body {
   background: #C8DBFB;
   border-radius: 50%;
   opacity: .7;
+}
+@media (max-width:1366px){
+  
 }
