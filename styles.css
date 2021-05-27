@@ -13,7 +13,7 @@ body {
 .logo {
   position: relative;
   padding: 40px 0;
-  padding-left: 44px;
+  padding-left: 48px;
   font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
 }
 .logo__circle {
@@ -98,6 +98,7 @@ body {
 }
 .main__title {
   margin: 0 0 34px 0;
+  padding-left: 3px;
   font:bold 66px/88px pt_serifbold,arial,helvetica,sans-serif;
 }
 .main__title-text_highlight {
@@ -105,14 +106,16 @@ body {
 }
 .main__subtitle {
   margin: 0 0 41px 0;
+  width: 420px;
+  padding-left: 3px;
   font: 22px/26px Roboto,arial,helvetica,sans-serif;
 }
 .main__button {
   display: inline-block;
-  font: 18px/22px Roboto,arial,helvetica,sans-serif;
+  font: 19px/21px Roboto,arial,helvetica,sans-serif;
   color: #fff;
   background: #0056EC;
-  padding: 19px 38px 18px 22px;
+  padding: 19px 30px 18px 20px;
   text-decoration: none;
   border-radius: 4px;
   transition: opacity .5s;
