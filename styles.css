@@ -135,6 +135,12 @@ body {
   border-radius: 50%;
   opacity: .7;
 }
+@media (max-width: 1365px){
+
+}
+@media (max-width: 1025px){
+  
+}
 @media (max-width:376px){
   .wrapper{
     width:87%;
