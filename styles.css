@@ -181,7 +181,14 @@ body {
   }
 }
 @media (max-width: 1025px){
-
+  .wrapper{
+    width: 91%;
+  }
+  .logo {
+    padding-left: 44px;
+}
+  .menu__item:last-child {
+    margin-right: 1px;
 }
 @media (max-width:376px){
   .wrapper{
