@@ -162,6 +162,7 @@ body {
     margin-bottom: 56px;
   }
   .main__title{
+    padding-left: 0px;
     margin: 0 0 40px 0;
     font: bold 50px/66px pt_serifbold,arial,helvetica,sans-serif;
   }
