@@ -261,12 +261,13 @@ body {
   }
   .main{
     text-align: center;
-    padding:8% 0;
+    padding:57% 0 9% 0;
     background-size: 85%;
     background-position: top center;
   }
   .main__title{
-    padding: 235px 0 36px 5px;
+    padding: 74px 0 0 5px;
+    margin-bottom: 36px;
     font: bold 30px/39px pt_serifbold,arial,helvetica,sans-serif;
   }
   .main__subtitle{
@@ -279,5 +280,4 @@ body {
     padding: 16px 26px 12px 18px;
     font:500 14px/16px Roboto,arial,helvetica,sans-serif;
   }
-
 }
