@@ -41,7 +41,7 @@ body {
   padding-left: 44px;
 }
 .hamburger-menu {
-  display: block;
+  display: none;
   }
 .menu {
   display: flex;
