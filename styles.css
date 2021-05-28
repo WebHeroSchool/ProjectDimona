@@ -32,7 +32,7 @@ body {
   background: #C8DBFB;
 }
 .logo__circle_color_dark-blue {
-  background: linear-gradient( 180deg ,rgba(255,255,255,1) 15%, #ECF3FF 15%);
+  background: #0056EC;
 }
 .logo__mobile{
   display: none;
@@ -102,7 +102,7 @@ body {
   font:bold 66px/88px pt_serifbold,arial,helvetica,sans-serif;
 }
 .main__title-text_highlight {
-  background: #ECF3FF;  
+  background: linear-gradient( 180deg ,rgba(255,255,255,1) 15%, #ECF3FF 15%);
 }
 .main__subtitle {
   margin: 0 0 41px 0;
