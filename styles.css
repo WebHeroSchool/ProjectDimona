@@ -226,7 +226,7 @@ body {
   .menu__item:last-child {
     margin-right: 1px;
 }
-@media(max-width: 801px){
+@media (max-width: 801px){
   .header{
     margin-bottom: 0;
   }
@@ -243,23 +243,7 @@ body {
     font: 500 15px/22px Roboto,arial,helvetica,sans-serif;
   }
 }
-@media (max-width: 770px){
-  .wrapper{
-    width: 90%;
-  }
-  .header{
-    margin-bottom: 30px;
-  }
-  .main{
-    padding-top: 45px;
-    margin-bottom: 5px;
-    background-size: 58%;
-  }
-  .main__title{
-    font: bold 36px/53px pt_serifbold,arial,helvetica,sans-serif;
-  }  
-}
-@media (max-width: 500px){
+@media (max-width: 769px){
  .wrapper{
     width:87%;
   }
@@ -374,5 +358,8 @@ body {
     visibility: visible;
     left: 0;
   }
+}
+@media (max-width: 376px){
+
 }
 
