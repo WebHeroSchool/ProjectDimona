@@ -259,7 +259,7 @@ body {
     font: bold 36px/53px pt_serifbold,arial,helvetica,sans-serif;
   }  
 }
-@media (max-width:376px) or (max-width: 500px){
+@media (max-width:376px){
   .wrapper{
     width:87%;
   }
