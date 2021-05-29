@@ -237,7 +237,7 @@ body {
     margin-bottom: 0;
   }
   .main__title {
-    font: bold 38/56 pt_serifbold,arial,helvetica,sans-serif;
+    font: bold 38px/56px pt_serifbold,arial,helvetica,sans-serif;
   }
   .main__subtitle{
     font: 500 15px/22px Roboto,arial,helvetica,sans-serif;
