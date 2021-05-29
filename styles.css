@@ -259,8 +259,8 @@ body {
     font: bold 36px/53px pt_serifbold,arial,helvetica,sans-serif;
   }  
 }
-@media (max-width:376px){
-  .wrapper{
+@media (max-width: 600px){
+ .wrapper{
     width:87%;
   }
   .logo{
@@ -373,4 +373,8 @@ body {
   #menu__toggle:checked ~ .menu__box {
     visibility: visible;
     left: 0;
+  }
+}
+@media (max-width:376px){
+
 }
