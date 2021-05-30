@@ -267,11 +267,11 @@ body {
   .main{
     text-align: center;
     padding:57% 0 9% 0;
-    background-size: 85%;
+    background-size: 80%;
     background-position: top center;
   }
   .main__title{
-    padding: 74px 0 0 5px;
+    padding: 86px 0 0 5px;
     margin-bottom: 36px;
     font: bold 30px/39px pt_serifbold,arial,helvetica,sans-serif;
   }
@@ -360,6 +360,12 @@ body {
   }
 }
 @media (max-width: 376px){
+  .main{
+    background-size: 85%;
+  }
+  .main__title{
+    padding: 74px 0 0 5px;
+  }
   .main__subtitle{
     padding: 0 38px 0 44px;
     margin-bottom: 24px;
