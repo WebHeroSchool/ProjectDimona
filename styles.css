@@ -236,6 +236,7 @@ body {
 }
   .menu__item:last-child {
     margin-right: 1px;
+  }
 }
 @media (max-width: 801px){
   .header{
