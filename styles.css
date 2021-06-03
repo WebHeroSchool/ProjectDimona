@@ -1,22 +1,22 @@
-body {
+body{
   margin: 0;
 }
-.wrapper {
+.wrapper{
   margin: auto;
   width: 80%;
 }
-.header {
+.header{
   display: flex;
   justify-content: space-between;
   margin-bottom: 130px;
 }
-.logo {
+.logo{
   position: relative;
   padding: 40px 0;
   padding-left: 48px;
   font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
 }
-.logo__circle {
+.logo__circle{
   position: absolute;
   left: 0;
   top: 50%;
@@ -26,7 +26,7 @@ body {
   border-radius: 50%;
   opacity: .7;
   }
-.logo__circle_color_blue {
+.logo__circle_color_blue{
   left: 8px;
   top: 56%;
   background: #C8DBFB;
