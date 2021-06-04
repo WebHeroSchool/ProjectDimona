@@ -234,9 +234,10 @@ body {
   }
   .logo {
     padding-left: 44px;
-}
+  }
   .menu__item:last-child {
     margin-right: 1px;
+  }
 }
 @media (max-width: 801px) {
   .header {
