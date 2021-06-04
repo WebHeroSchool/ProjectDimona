@@ -422,8 +422,7 @@ body {
     display: block;
     padding: 12px 24px; 
     color: #333;  
-    font: 500 30px/31px Roboto,arial,helvetica,sans-serif;
-    
+    font: 500 30px/31px Roboto, arial, helvetica, sans-serif;
   }
 
   .menu__item:hover {
@@ -472,7 +471,7 @@ body {
   .main__title {
     padding: 74px 0 0 5px;
   }
-  
+
   .main__subtitle {
     padding: 0 38px 0 44px;
     margin-bottom: 24px;
